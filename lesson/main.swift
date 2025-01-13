@@ -1,7 +1,7 @@
 //
 //  main.swift
 //  lesson
-//
+// danil
 //  Created by asylbek on 13.01.25.
 //
 
